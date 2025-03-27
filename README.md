@@ -1,6 +1,7 @@
 ## My Profile 🌰
 ### 中村 隆盛（@nkmryu）
-Webエンジニア。仕様の変更に強い拡張性のある実装が得意です。
+Webエンジニア。
+Laravel / Next.js
 
 <!--
 **nkmrrrr/nkmrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
