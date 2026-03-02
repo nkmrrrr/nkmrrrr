@@ -1,6 +1,6 @@
 ## My Profile 🦊
-### 中村 隆盛（@nkmryu）
-Webエンジニア。
+### @nkmryu
+Webエンジニア
 Laravel / Next.js
 
 <!--
